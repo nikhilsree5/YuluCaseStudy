@@ -26,8 +26,7 @@ The company collected the data on renting of Yulu e bikes from first January 201
 | windspeed | wind speed | 
 | casual | count of casual users | 
 | registered | count of registered users | 
-| count | count of total rental bikes including both casual and 
-registered | 
+| count | count of total rental bikes including both casual and registered | 
 
 # Project Outcomes
 - Conducted data collection, cleaning, and statistical analysis to enhance predictive accuracy by 15% for Yulu's shared electric cyclesdemand.
